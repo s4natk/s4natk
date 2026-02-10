@@ -60,14 +60,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=s4natk&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=s4natk&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s4natk&layout=compact&theme=tokyonight)
-
----
-
 ## 🧠 Coursework Focus
 - Data Structures & Algorithms  
 - Systems Programming  
