@@ -1,17 +1,15 @@
 # 👋 Hi, I'm Sanat Kanwal
 
 🎓 **Honours Mathematics & Computer Science** @ University of Waterloo  
-💻 **Backend & Systems-Oriented Software Engineer**  
-🏦 Former **Software Application Engineer @ CIBC**  
 ⚙️ Passionate about scalable backend systems, performance optimization, and infrastructure-adjacent engineering
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sanat-kanwal-68b87a329/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sanat-kanwal)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/s4natk)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:mrkanwalsanat@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:s3kanwal@uwaterloo.ca)
 
 ---
 
@@ -53,7 +51,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
@@ -62,10 +59,9 @@
 
 ## 🧠 Coursework Focus
 - Data Structures & Algorithms  
-- Systems Programming  
+- System Design Engineering 
 - Databases  
-- Linear Algebra & Probability  
-- Functional Programming  
+- Linear Algebra & Probability    
 
 ---
 
