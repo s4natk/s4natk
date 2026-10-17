@@ -1,18 +1,6 @@
 # 👋 Hi, I'm Sanat Kanwal
 
-🎓 **Honours Computational Mathematics & Computer Science** @ University of Waterloo  
-⚙️ Passionate about scalable backend systems, distributed systems, cloud infrastructure, performance optimization, and AI-powered applications
-
----
-
-## 🌐 Connect With Me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel)](https://sanatkanwal.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sanat-kanwal)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/s4natk)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:s3kanwal@uwaterloo.ca)
-
----
+🎓 **Honours Computational Mathematics & Computer Science** Minoring in Statistics @ University of Waterloo  
 
 ## 🛠️ Technical Skills
 
@@ -73,26 +61,5 @@
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira)
-
----
-
-## ☁️ Cloud Technologies
-
-**AWS:** ECS · Fargate · ECR · RDS · S3 · CloudWatch  
-**Azure:** Azure DevOps · Azure OpenAI  
-**Data:** PostgreSQL · MySQL · Redis · ETL  
-**Automation:** Power Automate · Power BI
-
----
-
-## 🧠 Coursework Focus
-
-- Data Structures & Algorithms
-- Databases
-- Systems Design
-- Optimization
-- Statistics
-
----
 
 ⭐ *Always open to learning, building, optimizing, and shipping meaningful software.*
